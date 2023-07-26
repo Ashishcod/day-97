@@ -1,0 +1,40 @@
+.contect_con {
+    margin-top: 4rem;
+    overflow  : hidden;
+    width     : 100vw;
+    height    : 40vh;
+    background-color: rgb(160, 160, 160);
+
+}
+
+.heading_contect {
+    font-family: 'Libre Bodoni', serif;
+    position   : relative;
+
+    color    : #fff;
+    font-size: 4vw;
+}
+
+.divider {
+    border-bottom: 1vh solid black;
+    height       : 20vh;
+}
+
+.addr {
+    color      : #fff;
+    position   : relative;
+    top        : 50%;
+    font-family: 'Libre Bodoni', serif;
+    font-size  : 3vh;
+}
+
+.number {
+    color   : #fff;
+   
+}
+.email{
+    color: #fff;
+    margin-top: 3rem;
+    font-family: 'Libre Bodoni', serif;
+    font-size: 1.5rem;
+}
